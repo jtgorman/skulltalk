@@ -1,7 +1,7 @@
 skulltalk
 =========
 
-Small set of scripts to create "Bob", my halloween oracle cyberpunk skull
+Small set of scripts to create "Bob", my Halloween cyberpunk oracle skull
 
 ![Bob](Bob.jpg "Bob")
 
